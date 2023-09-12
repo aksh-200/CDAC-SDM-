@@ -6,6 +6,6 @@ int main()
 	cout<<"Enter marks";
 	cin>>a>>b>>c>>d>>e;
 	int sum=a+b+c+d+e;
-	float avg =(float)sum/5;
+	float avg = sum/5.0f;
 	cout<<"avg ="<<avg;
 }
