@@ -5,7 +5,6 @@
 	- Username								
 	- Password (Password Requirements)		
 	- Captcha
-	- Forgot Password
 	- Display Picture & Hologram
 	- Session time
 	- Biometric Verification
@@ -14,6 +13,7 @@
 	- Username
 	- Password
 	- Captcha
+    - Forgot Password
 
 ## Module 3 : Test Catalog 
 	- UserID				- Discipline
@@ -23,4 +23,11 @@
 	- System no.			- Bookmark
 	- Navigation buttons	- Timer
 	- Subject Sections 		- Submit
+
+## Moudule 4 : Exam/Assesment (Admin)
+    - createTest
+    - scheduleTest
+    - testNotification
+    - modifyTestData
+    - correctResponses
 
