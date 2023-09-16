@@ -1,0 +1,6 @@
+# UserStory
+
+- As an admin I need to verify student's biometric so that we can allocate the system to the student and also no other person can attempt to take the exam.
+- As an admin I should be able to see how many canditates are present for the examination.
+- As an admin I need authority that no student should be able to login before the scheduled time.
+- As an admin I should be able to see how many students have logged in for the exam.
