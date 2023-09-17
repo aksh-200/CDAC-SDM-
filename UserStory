@@ -4,6 +4,10 @@
 - As an admin I should be able to see how many canditates are present for the examination.
 - As an admin I need authority that no student should be able to login before the scheduled time.
 - As an admin I should be able to see how many students have logged in for the exam.
+- As a student I used a time to see how much time is left for the exam.
+- As a student I want my answers to be saved automatically.
+- As a student I need a section where I can see how many answer I answered and how many I did not.
+- As a student I need instruction page so  that I can read the instruction ans follw them.
 - As a student , If there is a mistake in question options , I can feedback/report that question.
 - As a student , I need info about total no of attempted and unattempted questions so that i can review my response.
 - As a student submit button should be visible but test should be auto-submitted.
