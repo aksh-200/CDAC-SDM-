@@ -24,10 +24,27 @@
 	- Navigation buttons	- Timer
 	- Subject Sections 		- Submit
 
-## Moudule 4 : Exam/Assesment (Admin)
+## Module 4 : Exam/Assesment (Admin)
     - createTest
     - scheduleTest
     - testNotification
     - modifyTestData
     - correctResponses
+
+## Module 5: User Profile
+    - Username
+    - PRN
+    - batch
+    - Course Details
+    - Recent Exam
+    - Subject-wise Report
+    - Detailed Report
+
+## Module 6: Profile Setting
+    - Change Display Picture
+    - Change Email
+    - Change Mobile No.
+    - Reset Password
+    - Support
+
 
