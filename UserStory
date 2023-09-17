@@ -8,3 +8,7 @@
 - As a student , I need info about total no of attempted and unattempted questions so that i can review my response.
 - As a student submit button should be visible but test should be auto-submitted.
 - As a faculty , the questions/answers I have sent should be stored in the database of question paper.
+- As a faculty, I want questions and answers options should be shuffled for each student. 
+- As a faculty, I should be notified for the feedbacks and reports that have generated from students side so that I can review/rectify the questions. 
+- As an admin, I need authority so that no candidate will be able to start the exam without my authority. 
+- As an admin, I need access to questions and answers database so that I can upload the questions to the exam portal. 
