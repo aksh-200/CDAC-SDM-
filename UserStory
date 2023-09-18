@@ -16,3 +16,10 @@
 - As a faculty, I should be notified for the feedbacks and reports that have generated from students side so that I can review/rectify the questions. 
 - As an admin, I need authority so that no candidate will be able to start the exam without my authority. 
 - As an admin, I need access to questions and answers database so that I can upload the questions to the exam portal. 
+- As an admin, I need authority so that no candidate will be able to start the exam without my authority. 
+- As an admin, I need access to questions and answers database so that I can upload the questions to the exam portal.
+- As a student I need to authenticate & start the exam.
+- As a student I need to navigate through the exam questions.
+- As a student I need to get a hyperlink of all question on the right hand side.
+- As a student I need a book mark button so that I can mark questions & review it later.
+- As a student I can see my detailed assessment report in my profile section with recent exam result at the top and I can navigate past result as well.
